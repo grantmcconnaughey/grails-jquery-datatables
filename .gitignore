@@ -1,0 +1,12 @@
+.settings
+.DS_Store
+*.iws
+*.log
+/cobertura.ser
+/grails-cache-manager-*.zip
+/grails-cache-manager-*.zip.sha1
+/plugin.xml
+/.link_to_grails_plugins/
+/target
+/target-eclipse/
+/web-app/WEB-INF
