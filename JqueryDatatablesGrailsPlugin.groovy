@@ -5,9 +5,7 @@ class JqueryDatatablesGrailsPlugin {
     def author = "Grant McConnaughey"
     def authorEmail = "grantmcconnaughey@gmail.com"
     def developers = [ [ name: "Lim Chee Kin", email: "limcheekin@vobject.com" ]]
-    def description = '''\
-This plugin simply supplies jQuery DataTables plugin resources.
-'''
+    def description = 'Supplies jQuery DataTables plugin resources to a Grails app.'
     def documentation = "https://github.com/grantmcconnaughey/grails-jquery-datatables"
     def license = "APACHE"
     def issueManagement = [ system: "Github", url: "https://github.com/grantmcconnaughey/grails-jquery-datatables/issues" ]
